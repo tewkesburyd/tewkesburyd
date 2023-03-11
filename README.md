@@ -6,7 +6,7 @@ About Me
 
 🔭 My technical skills include React, Ruby on Rails, JavaScript, HTML, CSS, and Python. In additional to technical skills, I have strong communication and collaboration skills from a 8 year career working in the environmental field as a project manager.
 
-🌱 I’m currently learning Java and TyoeScript.
+🌱 I’m currently learning Java and TypeScript.
 
 😄 My drive to constantly learn has led me to career experiences that range from laboratory analyst to project management and now to growing as a software developer. Each experience presented unique challenges that all influenced the person that I am now. 
 
